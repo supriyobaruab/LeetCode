@@ -1,3 +1,5 @@
 # LeetCode
 
-## Storing the solved leetcode problems
+## Solved problems
+- Palindrome
+- Twosum
